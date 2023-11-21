@@ -6,5 +6,5 @@ second modify
 6
 7
 8
-9
-10
+changed line in folder 2
+changed line in folder 2
